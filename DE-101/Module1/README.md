@@ -4,7 +4,7 @@
 This folder contains files of the completed homework for module 1.
 
 
-## Analytical solution architecture
+## Analytical solution architecture scheme
 
 
 ![analytical-solution-architecture](https://raw.githubusercontent.com/pirmanov/datalearn/main/DE-101/Module1/analytical-solution-architecture.jpg)
